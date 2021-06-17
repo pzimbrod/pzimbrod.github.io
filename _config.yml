@@ -75,8 +75,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog  # your blog must have a name for it to show up in the nav bar
-blog_description: Thoughts that I encounter mingling with bits and bytes
+blog_name: My Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: Discovering the world of bits and bytes, one (finite) element at a time
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -152,8 +152,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Zimbrod
+  first_name: [Patrick]
 
   style: apa
   locale: en
