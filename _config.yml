@@ -67,7 +67,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My Blog  # your blog must have a name for it to show up in the nav bar
+blog_name: Mind the residual  # your blog must have a name for it to show up in the nav bar
 blog_description: Discovering the world of bits and bytes, one (finite) element at a time
 permalink: /blog/:year/:title/
 
