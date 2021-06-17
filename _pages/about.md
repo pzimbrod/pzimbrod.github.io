@@ -20,12 +20,18 @@ social: true  # includes social icons at the bottom of the page
 
 > *I learned very early the difference between knowing the name of something and knowing something.*
 >
-> &mdash; <cite>Richard Feynman</cite>
+> <div style="text-align: right"> &mdash; <cite>Richard Feynman</cite> </div>
+
+# Work
 
 Currently, I am a PhD student in the [Faculty of Applied Computer Science](https://www.uni-augsburg.de/en/fakultaet/fai/) at the [University of Augsburg](https://www.uni-augsburg.de/en/). My group focuses on computational modelling of production processes.
 
 I mostly work on improving quality output within additive manufacturing, in particular the Laser Powder Bed Fusion process (PBF-LB/M). Within my project work, I contribute to developing a robust, sensor-based online classification system for part quality using mostly machine learning. For my PhD work, I try to identify and implement a computationally efficient way to model the complex meso- and microscale physics during PBF-LB/M.
 
+# My interests
+
 Mostly growing from those specific topics, I have developed a fascination for computational modelling and in particular modelling mathematically tough problems that are described by PDEs. Processes that involve multiscale phenomena and stiff problems have taken me from Finite Volume over CG and DG Finite Element to data-driven operator methods. You can follow my journey over at my [blog](/blog).
+
+# Education
 
 I studied engineering science and mechanical engineering at the University of Bayreuth where I focused on lightweight design and process engineering.
