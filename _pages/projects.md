@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A summary of the recent research projects that I'm involved in.
 nav: true
-display_categories: [work, fun]
+display_categories: []
 horizontal: false
 ---
 <div class="projects">

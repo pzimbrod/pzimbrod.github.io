@@ -76,7 +76,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: Blog  # your blog must have a name for it to show up in the nav bar
-blog_description: Thoughts that I encounter whilst mingling with bits and bytes
+blog_description: Thoughts that I encounter mingling with bits and bytes
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -84,8 +84,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+disqus_shortname: pzimbrod # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
