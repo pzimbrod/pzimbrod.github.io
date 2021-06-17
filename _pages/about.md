@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-> I learned very early the difference between knowing the name of something and knowing something.
->
-> &mdash; <cite>Richard Feynman</cite>
+>> I learned very early the difference between knowing the name of something and knowing something.
+>>
+>> &mdash; <cite>Richard Feynman</cite>
 
 Currently, I am a PhD student in the [Faculty of Applied Computer Science](https://www.uni-augsburg.de/en/fakultaet/fai/) at the [University of Augsburg](https://www.uni-augsburg.de/en/). My group focuses on computational modelling of production processes.
 
