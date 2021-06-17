@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 >
 > <div style="text-align: right"> &mdash; <cite>Richard Feynman</cite> </div>
 
-## Work
+## Work profile
 
 Currently, I am a PhD student in the [Faculty of Applied Computer Science](https://www.uni-augsburg.de/en/fakultaet/fai/) at the [University of Augsburg](https://www.uni-augsburg.de/en/). My group focuses on computational modelling of production processes.
 
@@ -30,7 +30,11 @@ I mostly work on improving quality output within additive manufacturing, in part
 
 ## My interests
 
-Mostly growing from those specific topics, I have developed a fascination for computational modelling and in particular modelling mathematically tough problems that are described by PDEs. Processes that involve multiscale phenomena and stiff problems have taken me from Finite Volume over CG and DG Finite Element to data-driven operator methods. You can follow my journey over at my [blog](/blog). You can also have a look at my recent [GitHub projects](https://github.com/pzimbrod).
+Mostly growing from those specific topics, I have developed a fascination for computational modelling and in particular modelling mathematically tough problems that are described by PDEs. Processes that involve multiscale phenomena and stiff problems have taken me from Finite Volume over CG and DG Finite Element to data-driven operator methods.
+
+I am also interested in materials informatics, especially new ways of obtaining process-structure-property-performance relationships by means of HPC and physics-informed machine learning.
+
+You can follow my journey over at my [blog](/blog). You can also have a look at my recent [GitHub projects](https://github.com/pzimbrod).
 
 ## Education
 
