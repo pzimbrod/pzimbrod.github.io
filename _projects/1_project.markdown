@@ -2,7 +2,7 @@
 layout: page
 title: ProSi-3D
 description: Robust process monitoring for Laser Powder Bed Fusion
-img: /assets/img/12.jpg
+img: /assets/img/sensor.jpg
 importance: 1
 category: work
 ---
