@@ -32,7 +32,7 @@ For my PhD work, I try to identify and implement a computationally efficient way
 
 ## My interests
 
-Mostly growing from those specific topics, I have developed a fascination for computational modelling and in particular modelling mathematically tough problems that are described by PDEs. Processes that involve multiscale phenomena and stiff problems have taken me from Finite Volume over CG and DG Finite Element to data-driven operator methods.
+Mostly growing from those specific topics, I have developed a fascination for computational modelling and in particular modelling mathematically tough problems that are governed by PDEs. Processes that involve multiscale phenomena and stiff problems have taken me from Finite Volume over CG and DG Finite Element to data-driven operator methods.
 
 I am also interested in materials informatics, especially new ways of obtaining process-structure-property-performance relationships by means of HPC and physics-informed machine learning.
 
