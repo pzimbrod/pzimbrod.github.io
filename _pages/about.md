@@ -22,11 +22,13 @@ social: true  # includes social icons at the bottom of the page
 >
 > <div style="text-align: right"> &mdash; <cite>Richard Feynman</cite> </div>
 
-## Work profile
+## My work profile
 
-Currently, I am a PhD student in the [Faculty of Applied Computer Science](https://www.uni-augsburg.de/en/fakultaet/fai/) at the [University of Augsburg](https://www.uni-augsburg.de/en/). My group focuses on computational modelling of production processes.
+Currently, I am a PhD student in the [Faculty of Applied Computer Science](https://www.uni-augsburg.de/en/fakultaet/fai/) at the [University of Augsburg](https://www.uni-augsburg.de/en/). My group focuses on computational modelling of production processes with my personal focus lying within materials informatics.
 
-I mostly work on improving quality output within additive manufacturing, in particular the Laser Powder Bed Fusion process (PBF-LB/M). Within my project work, I contribute to developing a robust, sensor-based online classification system for part quality using mostly machine learning. For my PhD work, I try to identify and implement a computationally efficient way to model the complex meso- and microscale physics during PBF-LB/M.
+I mostly work on improving quality output within additive manufacturing, in particular the Laser Powder Bed Fusion process (PBF-LB/M).
+Within my project work, I contribute to developing a robust, sensor-based online classification system for part quality using mostly machine learning. You can find more details under [projects](/projects).
+For my PhD work, I try to identify and implement a computationally efficient way to model the complex meso- and microscale physics during PBF-LB/M. This should ultimately accelerate material qualification in additive manufacturing so that new high performance materials can be developed faster and with less empirical effort.
 
 ## My interests
 
@@ -36,7 +38,7 @@ I am also interested in materials informatics, especially new ways of obtaining 
 
 You can follow my journey over at my [blog](/blog). You can also have a look at my recent [GitHub projects](https://github.com/pzimbrod).
 
-## Education
+## My Education
 
 I studied engineering science and mechanical engineering at the University of Bayreuth where I focused on lightweight design and process engineering.
 
