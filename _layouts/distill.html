@@ -16,6 +16,7 @@
     <script async type="text/json">{
       "title": "{{ page.title }}",
       "description": "{{ page.description }}",
+      "Reading time:" "about {% include read_time.html %}",
       "published": "{{ page.date | date: '%B %-d, %Y' }}",
       "authors": [
         {% for author in page.authors %}
@@ -66,9 +67,6 @@
       <d-byline></d-byline>
 
       <d-article>
-
-        This post takes about {% include read_time.html %} to read.
-
         {{ content }}
       </d-article>
 
