@@ -1,21 +1,3 @@
-<<<<<<< HEAD
----
-layout: default
-title: blog
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 3
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3  # The number of links after the current page
----
-
-<div class="post">
-=======
 <!DOCTYPE html>
 <html>
 
@@ -24,7 +6,7 @@ pagination:
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Patrick  Zimbrod | blank</title>
+<title>Patrick  Zimbrod | Projects</title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ">
 
@@ -48,7 +30,7 @@ pagination:
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔬</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -112,7 +94,7 @@ pagination:
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               Blog
               
@@ -129,9 +111,11 @@ pagination:
           
           
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/projects/">
                 Projects
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -177,26 +161,73 @@ pagination:
 
     <div class="container mt-5">
       <div class="post">
->>>>>>> origin/master
 
-  <div class="header-bar">
-    <h1>Mind the residual</h1>
-    <h2>Discovering the world of bits and bytes, one (finite) element at a time</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Projects</h1>
+    <p class="post-description">A summary of the recent research projects that I'm involved in.</p>
+  </header>
 
-
-  <ul class="post-list">
+  <article>
+    <div class="projects">
+  
+  <!-- Display categorized projects -->
     
-      <li>
-        <h3><a class="post-title" href="/blog/2021/numerics/">Finite choices</a></h3>
-        <p class="post-meta">June 17, 2021</p>
-        <p>A somewhat unconvenient answer to why you can't have it all</p>
-      </li>
+      <h2 class="category">work</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/OpenFOAM/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/Melt_pool.png" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Melt flows for in-situ alloying</h2>
+        <p class="card-text">Modelling thermosolutal Marangoni Convection in Laser Powder Bed Fusion with the Finite Volume Method</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/ProSi-3D/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/sensor.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">ProSi-3D</h2>
+        <p class="card-text">Robust process monitoring for Laser Powder Bed Fusion</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
     
-  </ul>
 
   
 
+</div>
+
+  </article>
 
 </div>
 

@@ -1,21 +1,3 @@
-<<<<<<< HEAD
----
-layout: default
-title: blog
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 3
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3  # The number of links after the current page
----
-
-<div class="post">
-=======
 <!DOCTYPE html>
 <html>
 
@@ -24,7 +6,7 @@ pagination:
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Patrick  Zimbrod | blank</title>
+<title>Patrick  Zimbrod | ProSi-3D</title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ">
 
@@ -48,7 +30,7 @@ pagination:
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔬</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/ProSi-3D/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -112,7 +94,7 @@ pagination:
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               Blog
               
@@ -120,8 +102,6 @@ pagination:
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -177,26 +157,25 @@ pagination:
 
     <div class="container mt-5">
       <div class="post">
->>>>>>> origin/master
 
-  <div class="header-bar">
-    <h1>Mind the residual</h1>
-    <h2>Discovering the world of bits and bytes, one (finite) element at a time</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">ProSi-3D</h1>
+    <p class="post-description">Robust process monitoring for Laser Powder Bed Fusion</p>
+  </header>
 
+  <article>
+    <p>This project is kindly funded by the <a href="https://www.stmwi.bayern.de/en/">Bavarian Ministry of Economic Affairs, Regional Development and Energy</a>.</p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/numerics/">Finite choices</a></h3>
-        <p class="post-meta">June 17, 2021</p>
-        <p>A somewhat unconvenient answer to why you can't have it all</p>
-      </li>
-    
-  </ul>
+<p>We aim to establish an online process monitoring system based on various optical, acoustic and chemical sensors for reliable quality prediction during additive manufacturing.
+With means of inferential statistics and machine learning, we combine the sensor data that represent different effects of the physical melting process. Through this combination we expect to enhance the predictive power regarding the usability of the printed parts.</p>
 
-  
+<p>Another working field in the project is establishing robust processes and guidelines for the technology-specific Pre-Process. This covers feedstock handling and physical machine preparation as well as the creation and preparation of the necessary 3D models.</p>
 
+<p>For this endeavor, we team up with different manufacturers that rely on Powder Bed Fusion in order to ensure end-user applicability.</p>
+
+<p>You can follow this work on our <a href="https://git.rz.uni-augsburg.de/zimbropa/prosi-3d">Git Repo</a>.</p>
+
+  </article>
 
 </div>
 
