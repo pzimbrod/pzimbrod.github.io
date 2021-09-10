@@ -15,3 +15,5 @@ With means of inferential statistics and machine learning, we combine the sensor
 Another working field in the project is establishing robust processes and guidelines for the technology-specific Pre-Process. This covers feedstock handling and physical machine preparation as well as the creation and preparation of the necessary 3D models.
 
 For this endeavor, we team up with different manufacturers that rely on Powder Bed Fusion in order to ensure end-user applicability.
+
+You can follow this work on our [Git Repo](https://git.rz.uni-augsburg.de/zimbropa/prosi-3d).
