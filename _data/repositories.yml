@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pzimbrod
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - pzimbrod/thermocapillaryInterFoam
+  - SciML/OperatorLearning.jl
+  - pzimbrod/ieee-iceccme-2022
+  - pzimbrod/pinn-for-am
+  - pzimbrod/prosi-3d
+  - pzimbrod/ML-for-PhaseField
