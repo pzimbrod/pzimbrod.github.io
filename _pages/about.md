@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 ## My work profile
 
-Currently, I am a PhD student in the [Faculty of Applied Computer Science](https://www.uni-augsburg.de/en/fakultaet/fai/) at the [University of Augsburg](https://www.uni-augsburg.de/en/). My group focuses on computational modelling of production processes with my personal focus lying within materials informatics.
+Currently, I am a PhD student in the [Faculty of Applied Computer Science](https://www.uni-augsburg.de/en/fakultaet/fai/) at the [University of Augsburg](https://www.uni-augsburg.de/en/). My group focuses on computational modelling of production processes with my personal focus lying within efficient solution of problems given by Partial Differential Equations (PDEs).
 
 I mostly work on improving quality output within additive manufacturing, in particular the Laser Powder Bed Fusion process (PBF-LB/M).
 Within my project work, I contribute to developing a robust, sensor-based online classification system for part quality using mostly machine learning. You can find more details under [projects](/projects).
@@ -32,7 +32,7 @@ For my PhD work, I try to identify and implement a computationally efficient way
 
 ## My interests
 
-Mostly growing from those specific topics, I have developed a fascination for computational modelling and in particular modelling mathematically tough problems that are governed by PDEs. Processes that involve multiscale phenomena and stiff problems have taken me from Finite Volume over CG and DG Finite Element to data-driven operator methods.
+Mostly growing from those specific topics, I have developed a fascination for computational modelling and in particular modelling mathematically tough problems that are governed by PDEs. Processes that involve multiscale phenomena and stiff problems have taken me from Finite Volume over CG and DG Finite Element methods to custom, high performance mixed Galerkin approximations.
 
 I am also interested in materials informatics, especially new ways of obtaining process-structure-property-performance relationships by means of HPC and physics-informed machine learning.
 
