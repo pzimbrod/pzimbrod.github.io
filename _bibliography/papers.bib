@@ -27,20 +27,20 @@ material qualification processes.},
 	slides = {zimbrod-phasefield-slides.pdf}
 }
 
-@inproceedings{https://doi.org/10.48550/arxiv.2209.09671,
+@inproceedings{https://doi.org/10.1109/ICECCME55909.2022.9988504,
   abbr = {IEEE},
-  doi = {10.48550/ARXIV.2209.09671},
+  doi = {10.1109/ICECCME55909.2022.9988504},
   bibtex_show = {true},
   url = {https://arxiv.org/abs/2209.09671},
-  author = {Zimbrod, Patrick and Schilp, Johannes},
+  author = {Zimbrod, Patrick and Schreter, Magdalena and Schilp, Johannes},
   keywords = {Numerical Analysis (math.NA), Materials Science (cond-mat.mtrl-sci), Fluid Dynamics (physics.flu-dyn), FOS: Mathematics, FOS: Mathematics, FOS: Physical sciences, FOS: Physical sciences},
-  title = {An Efficient, High-order, Adaptive Finite Volume Solver for Modelling Capillary Effects in Advanced Manufacturing Processes},
+  title = {Efficient Simulation of Complex Capillary Effects in Advanced Manufacturing Processes using the Finite Volume Method},
   publisher = {IEEE},
   isbn = {978-1-6654-7095-7},
   year = {2022},
   booktitle={2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)}, 
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International},
-  abstract = {We present a free and open source implementation of the Finite Volume Method that captures thermal and solute-driven free-surface flows, more commonly known as Marangoni flows. This type of physics commonly appears within many manufacturing processes as well as microfluidic devices and is known to be challenging to resolve. The application includes adaptive mesh refinement and high order WENO schemes in order to substantially save computational cost in multiphase flows where adequate tracking of the phase boundaries is crucial. By accurately simulating the temporal evolution of multiphase flow patterns, unique insight into e.g. the physics of melt pool formation in metal additive manufacturing is possible that is otherwise hard to gain experimentally. We demonstrate our work by a simple two-dimensional benchmark case and outline possible applications with a mesoscopic model of Laser Powder Bed Fusion additive manufacturing.},
+  abstract = {The accurate representation of surface tension driven flows in multi phase systems is considered a challenging problem to resolve numerically. Although there have been extensive works in the past that have presented approaches to resolve these so called Marangoni flows at the phase boundaries, the question of how to efficiently resolve the interface in a universal and conservative manner remains largely open in comparison. Such problems are of high practical relevance in many manufacturing processes, especially in the microfluidic regime where capillary effects dominate the local force equilibria. In this work, we present a freely available numerical solver based on the Finite Volume Method that is able to resolve arbitrarily complex, incompressible multi phase systems with the mentioned physics at phase boundaries. An efficient solution with respect to the number of degrees of freedom can be obtained by either using high order WENO stencils or by employing adaptive cell refinement. We demonstrate the capabilities of the solver by investigating a model benchmark case as well as a single track laser melting process that is highly relevant within laser additive manufacturing.},
   arxiv = {2209.09671},
   pdf = {zimbrod-fvm-for-am-quality}
 }
